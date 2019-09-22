@@ -13,6 +13,7 @@ other modify 17:26
 
 测试：其他人已提交新文件到远程，此时本地修改了另一个文件，尝试是否能直接 git pull.
 测试：远程分支修改了，在本地尝试 pull --rebase.
+测试：远程和本地修改了同一个文件，执行 git pull --rebase
 
 master modify night;
 dev modify night
