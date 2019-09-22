@@ -9,6 +9,7 @@ other modify
 shixin add.
 other modify 02
 other modify 17:26
+石鑫在本地进行了修改 17：38，此时实际上其他人以修改并提交了东西到服务器上，查看会导致什么结果
 
 
 master modify night;
